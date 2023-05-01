@@ -1,0 +1,1 @@
+Minha pasta principal de estudos para compartilhar meu desenvolvimento.
