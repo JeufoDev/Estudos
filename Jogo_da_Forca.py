@@ -52,4 +52,3 @@ while chances>0 and ganhou == False:
 
 
 regras.mostra_resultado(ganhou, palavra_chave, chances)
-    
