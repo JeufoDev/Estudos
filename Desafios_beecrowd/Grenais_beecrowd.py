@@ -23,7 +23,7 @@ while True:
     total+=1
     
     # 1- verifica se teve outro grenal
-    # 2- se tiver ele nvolta para o loop
+    # 2- se tiver ele volta para o loop
     # 3- caso não tenha ele printa os resultados e verifica quem ganhou mais ou se foi empate da quantidade de vitórias
     # 4- e já mostra o resultado final do ganhador ou empate e fecha o loop com o break
     resp = int(input("Novo grenal (1-sim 2-nao)\n"))
